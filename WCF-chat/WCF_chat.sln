@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF_chat", "WCF_chat\WCF_chat.csproj", "{B36FC235-A5EB-4FEA-AAD1-81255F80C316}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Host_chat", "Host_chat\Host_chat.csproj", "{48C4987C-6498-4CBA-87B7-30F46F104613}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client_chat", "Client_chat\Client_chat.csproj", "{D660A491-2C50-4188-AAA4-D752FAAF389B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B36FC235-A5EB-4FEA-AAD1-81255F80C316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B36FC235-A5EB-4FEA-AAD1-81255F80C316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B36FC235-A5EB-4FEA-AAD1-81255F80C316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B36FC235-A5EB-4FEA-AAD1-81255F80C316}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48C4987C-6498-4CBA-87B7-30F46F104613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48C4987C-6498-4CBA-87B7-30F46F104613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48C4987C-6498-4CBA-87B7-30F46F104613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48C4987C-6498-4CBA-87B7-30F46F104613}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D660A491-2C50-4188-AAA4-D752FAAF389B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D660A491-2C50-4188-AAA4-D752FAAF389B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D660A491-2C50-4188-AAA4-D752FAAF389B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D660A491-2C50-4188-AAA4-D752FAAF389B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
